@@ -1,1 +1,2 @@
-My first readme
+
+The life is two days
